@@ -8,16 +8,16 @@ Game is top down light extraction tactical shooter. In the future there is a pla
 * None of the items take more than one slot
 * Smaller items can stack in single slot
 
-## Weapons 
+## Weapons
 
 ## Health system
 
 * Hit points base - 100 HP base
-* Health damage decreased by 
+* Health damage decreased by
 * 3 types of hits
-** Headshot - does tripple damage
-** Normal hit - middle of the target
-** Grazing hit - reduced damage. Half or target radius is still full damage, further from the center that r/2 decreases damage from full to no damage
+  * Headshot - does tripple damage
+  * Normal hit - middle of the target
+  * Grazing hit - reduced damage. Half or target radius is still full damage, further from the center that r/2 decreases damage from full to no damage
 * Bleeding status
 * Stunned status - for example from larger caliber rounds bouncing of helmet or from explosions
 
@@ -29,7 +29,7 @@ Game is top down light extraction tactical shooter. In the future there is a pla
 
 ### Stash
 
-* 
+*
 
 ### Player loadout
 
@@ -40,14 +40,13 @@ Game is top down light extraction tactical shooter. In the future there is a pla
 * There are 2 types of map to choose from - hand crafted and dynamically created
 * Map are described in [map doc file](./map/README.md)
 * On the left screen there is current player loadout
-* Each map has 
+* Each map has
 * On the right screen there is map selection, player can see
-** Map name
-** Standard loot quality/enemy strength
-** Current loot/enemy multiplayer
+  * Map name
+  * Standard loot quality/enemy strength
+  * Current loot/enemy multiplayer
 
 ## Raid
-
 
 * Instead of looting player will be awarder potential loot they can extract with at extraction zone
 * Loot quality is determined by number

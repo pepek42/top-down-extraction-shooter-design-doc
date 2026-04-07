@@ -1,4 +1,12 @@
-# Weapons and Ammo
+# Combat details
+
+## Hit types
+
+### Body shoot
+
+### Grazing hit
+
+### Headshot
 
 ## Weapon types
 
@@ -11,7 +19,7 @@
 * Shotgun - TODO
 * TODO
 
-## Example calibers:
+### Example calibers:
 
 * 5.56x45, 5.45x39, .300 - AR/carabin/LMG/Civilian rifles
 * 9x19, .45 - pistol/SMG
@@ -35,11 +43,11 @@
 
 Penetration system works for environment, player/enemies and armor
 
-### Armor penetration
+## Armor penetration
 
-Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](./ARMOR.md)
+Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](ARMOR.md)
 
-### Character penetration
+## Character penetration
 
 When character is penetrated projectile can slow down or stop completely. Expected result is close to reality. For example
 
@@ -48,7 +56,7 @@ When character is penetrated projectile can slow down or stop completely. Expect
 * If unprotected enemy is shoot with 7.52x51 experimental bullet we expect little slow down
 * If heavily armored enemy shot with 5.56x45 AP round - round may fragment dealing extra damage and not penetrating but it can also penetrate
 
-### Environmental penetration
+## Environmental penetration
 
 There are different material with different thickness. For example:
 

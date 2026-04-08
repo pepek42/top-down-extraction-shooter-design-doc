@@ -39,26 +39,24 @@
 * AP - high pen/muzzle velocity for given caliber
 * Experimental - really high pen/muzzle velocity for given caliber
 
-## Penetration system and environment destruction
+## Environment penetration
 
-Penetration system works for environment, player/enemies and armor
+* Penetration system works for environment in addition to [armor](ARMOR.md#penetration-mechanics)
+* Different environment obstacles will have different resistance. For example:
+  * Stone wall is penetrable by medium to high caliber AP
+  * Wooden wall will stop 9x19 rounds and will significantly reduce speed of AP round
 
 ## Armor penetration
 
-Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](ARMOR.md)
+Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](ARMOR.md#penetration-mechanics)
 
 ## Character penetration
 
-When character is penetrated projectile can slow down or stop completely. Expected result is close to reality. For example
+When character is shot (armor is defeated) projectile can slow down or stop completely inside character. Expected result is close to reality. For example
 
 * If unprotected enemy is shot with 9x19 hollow point bullet in the center of mass bullet is not expected to penetrate
 * If unprotected enemy is grazed with 9x19 hollow point bullet it will still significantly slow down bullet
 * If unprotected enemy is shoot with 7.52x51 experimental bullet we expect little slow down
 * If heavily armored enemy shot with 5.56x45 AP round - round may fragment dealing extra damage and not penetrating but it can also penetrate
 
-## Environmental penetration
-
-There are different material with different thickness. For example:
-
-* Stone wall is penetrable by medium to high caliber AP
-* Wooden wall will stop 9x19 rounds and will significantly reduce speed of AP round
+Grazing shot will go threw smaller amount of character compared to full body shot.

@@ -4,6 +4,10 @@ Game is top down light extraction tactical shooter. In the future there is a pla
 * Extract
 * Clear the map
 
+## Design goals
+
+Main design goals are explained in [design goals doc](./DESIGN_GOALS.md)
+
 ## Combat
 
 ### Weapons
@@ -32,7 +36,6 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 
 * Maps can be predefined or dynamic (randomly generated with pattern). More details in TODO
 
-
 ## Items and slots
 
 * Items need slot to be extracted and stored in hideout stash
@@ -55,7 +58,7 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 
 ## Raid selection screen
 
-* There are 2 types of map to choose from - hand crafted and dynamically created
+* There are 2 types of map to choose from - handcrafted and dynamically created
 * Map are described in [maps](./MAPS.md)
 * On the left screen there is current player loadout
 * Each map has
@@ -71,4 +74,5 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 
 ### Enemies
 
-More in [enemies](./ENEMIES.md)
+* [Factions](./LORE.md#factions)
+* [AI](./AI.md)

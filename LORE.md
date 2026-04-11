@@ -36,6 +36,7 @@ United States of Anarchists (USA)
 
 * Main faction
 * Use US weapon systems
+* Use different [tiers of soldiers](#main-factions-soldier-ties)
 
 TODO
 
@@ -45,6 +46,7 @@ Democratic Alliance (DA)
 
 * Main faction
 * Use Polish/NATO weapon systems
+* Use different [tiers of soldiers](#main-factions-soldier-ties)
 
 TODO
 
@@ -60,20 +62,36 @@ Outlaws that are creating they own "state" taking advantage of the current chaos
 ### Corporations
 
 * Side faction (non-main)
+* Does have security details contracting mercenaries/security firms
+  * They can have from low tier to elit troops depending on what they protect/attack
 
 TODO
 
 ## Main factions soldier ties
 
-* Low tier troops
-  * Guards
-  * Low tier patrols
-  * Poorly equipped human waves
-  * Disorganised and demoralized regulars
-* Mid-tier
-  * Freshly trained, but better equipped regulars
-  * More seasoned but lacking equipment regulars
-  * 
+## Low tier troops
+
+* Guards
+* Low tier patrols
+* Poorly equipped human waves
+* Disorganised and demoralized regulars
+
+## Mid-tier troops
+
+* Freshly trained, but better equipped regulars
+* More seasoned but lacking equipment regulars
+* Organised, support each other
+
+## High tier troops
+
+* Well-trained and well-equipped
+* Will use advanced tactics, cooperation
+
+## Elit troops
+
+* Special forces
+* Highly trained
+* Very coordinated with little verbal communication
 
 ## Player faction
 

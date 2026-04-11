@@ -3,8 +3,7 @@
 * Trading is done via trade menu from player base
 * Player can buy items from [factions](./LORE.md#factions) based on faction level
 * Each faction offers items associated with their theme, the higher the level, better the items
-  * Idelogical faction 
-* [Corporation](./LORE.md#corporations) sells different items  
+* [Corporation](./LORE.md#corporations) sells different items, including other faction items at higher markup
 
 ## Faction tiers
 
@@ -15,6 +14,12 @@
   * Bandits have only tier 1 or 2
 * Each faction tier is 20% more status with given faction (tier 1 0-19.99%, tier 2 20-39.99% and so on)
 * Faction status can go above 100% (5 stars)
+
+## Permanent unlocks
+
+Player is able to unlock equipment for theirs organization permanently
+* Require completing faction quest
+* Will unlock items from previous [faction trier](#faction-tiers)
 
 ## Faction offer
 
@@ -40,5 +45,5 @@ TODO
 
 ### Corporations
 
-TODO
-
+* Exotic weapons/equipment
+* Other faction gear at very high price

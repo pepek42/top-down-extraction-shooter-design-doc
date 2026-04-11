@@ -16,7 +16,6 @@ Fascist Block (FB)
 
 * Main faction
 * Use eastern block weapon systems
-* Use different [tiers of soldiers](#main-factions-soldier-ties)
 
 TODO
 
@@ -26,7 +25,6 @@ Asian Communist Alliance (ACA)
 
 * Main faction
 * Use Asian weapon systems
-* Use different [tiers of soldiers](#main-factions-soldier-ties)
 
 TODO
 
@@ -36,7 +34,6 @@ United States of Anarchists (USA)
 
 * Main faction
 * Use US weapon systems
-* Use different [tiers of soldiers](#main-factions-soldier-ties)
 
 TODO
 
@@ -45,8 +42,7 @@ TODO
 Democratic Alliance (DA)
 
 * Main faction
-* Use Polish/NATO weapon systems
-* Use different [tiers of soldiers](#main-factions-soldier-ties)
+* Use Polish/non USA NATO weapon systems
 
 TODO
 
@@ -64,38 +60,11 @@ Outlaws that are creating they own "state" taking advantage of the current chaos
 * Side faction (non-main)
 * Does have security details contracting mercenaries/security firms
   * They can have from low tier to elit troops depending on what they protect/attack
-
-TODO
-
-## Main factions soldier ties
-
-## Low tier troops
-
-* Guards
-* Low tier patrols
-* Poorly equipped human waves
-* Disorganised and demoralized regulars
-
-## Mid-tier troops
-
-* Freshly trained, but better equipped regulars
-* More seasoned but lacking equipment regulars
-* Organised, support each other
-
-## High tier troops
-
-* Well-trained and well-equipped
-* Will use advanced tactics, cooperation
-
-## Elit troops
-
-* Special forces
-* Highly trained
-* Very coordinated with little verbal communication
+* Can use other/exotic weapon systems
+* Usually they are going to be on good terms with factions other than [bandits](#bandits) and [communists](#communists)
+  * As their main goal is profit they can work with other factions but can also be hostile
 
 ## Player faction
 
 * Player faction is initially aligned with [democrats](#democrats) and have [tier](./TRADING.md#faction-tiers) 2 with them
-* Player can align with any of the main factions in the end game
-  * Choosing one faction will make you play their endgame missions
-  * Will unlock ability to unlock tier 5
+

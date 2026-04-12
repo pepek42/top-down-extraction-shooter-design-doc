@@ -21,16 +21,7 @@ More detailed description in [combat](./COMBAT_DETAILS.md)
 Game offers armored vests, rigs and helmets with face shields. More detailed description in [armor](./ARMOR.md)
 
 
-## Health system
 
-* Hit points base - 100 HP base
-* Health damage decreased by
-* 3 types of hits
-  * Headshot - huge damage multiplayer
-  * Normal hit - middle of the target
-  * Grazing hit - reduced damage. Half or target radius is still full damage, further from the center that r/2 decreases damage from full to no damage
-* Bleeding status
-* Stunned status - for example from larger caliber rounds bouncing of helmet or from explosions
 
 ## Maps
 

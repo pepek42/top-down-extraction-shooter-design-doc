@@ -1,5 +1,9 @@
 # Combat details
 
+* In order for bullet to hit player need to shoot so that bullet will pass target
+* If mouse is too far away from target (to far behind/in front), hit will not count (bullet drop)
+  * Different [combat stances](#combat-stances) determine how close to target you need to aim
+
 ## Hit types
 
 ### Body shoot
@@ -7,6 +11,22 @@
 ### Grazing hit
 
 ### Headshot
+
+## Combat stances
+
+Switching between combat stances takes a little bit of time
+
+* Standing
+  * Normal shooting ability
+  * Easier to hit
+* Crouched
+  * Slightly more stable shooting position
+  * Harder to hit
+  * Much lower movement speed
+* Prone
+  * Stable shooting position
+  * Much harder to hit
+  * Terrible movement speed
 
 ## Weapon types
 

@@ -1,5 +1,33 @@
 # AI behaviour
 
+## AI tiers
+
+### Low tier troops
+
+* Guards
+* Low tier patrols
+* Poorly equipped human waves
+* Disorganised and demoralized regulars
+
+### Mid-tier troops
+
+* Freshly trained, but better equipped regulars
+* More seasoned but lacking equipment regulars
+* Organised, support each other
+
+### High tier troops
+
+* Well-trained and well-equipped
+* Will use advanced tactics, cooperation
+
+### Elit troops
+
+* Special forces
+* Highly trained
+* Very coordinated with little verbal communication
+
+## Behaviours
+
 Goal of AI is to create realistic, dynamic world. Ideally AI would be smart and resourceful. AI is expected to
 
 | What                                      | AI level starting to use it                                             |
@@ -58,29 +86,3 @@ When taking combat losses, taking heavy fire them may decide to retreat and eith
   * For example player may do pincer attack on enemy positions from 2 sides
 * When trying to fulfil player order squad will behave similarly as ally/enemy AU
 * Player may divide their squad into sub squad for example to better cover movement of one sub squad with other squad
-
-## Soldier tiers
-
-### Low tier troops
-
-* Guards
-* Low tier patrols
-* Poorly equipped human waves
-* Disorganised and demoralized regulars
-
-### Mid-tier troops
-
-* Freshly trained, but better equipped regulars
-* More seasoned but lacking equipment regulars
-* Organised, support each other
-
-### High tier troops
-
-* Well-trained and well-equipped
-* Will use advanced tactics, cooperation
-
-### Elit troops
-
-* Special forces
-* Highly trained
-* Very coordinated with little verbal communication

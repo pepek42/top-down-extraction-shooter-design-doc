@@ -1,5 +1,9 @@
 # Armor system
 
+TBD TODO - for now, system assumes linear pen vs speed. This is not super realistic. For now, lets leave it.
+
+## Overview
+
 * Game uses armor system that is split into 2 slots
   * Head
   * Torso
@@ -38,21 +42,23 @@ Armor level ranges from 1 to 10. This scale is linear. Each of components mentio
 
 ## Armor damage
 
-Hitting armor and not penetrating it will result in armor damage
+Hitting armor and not penetrating it will result in armor damage.
 
-TODO
+* Hitting high tier armor with low pen ammo will destroy armor much less
+  * For example lvl 7 armor hit with lvl 2 pen will require a lot of hits
+* Hitting low tier armor with high pen ammo will destroy it much quicker
+  * For example lvl 2 armor hit with lvl 7 pen
 
-### Lose of pen
+### Speed lose on pen
 
-TODO
-
-### Fragmentation
-
-If armor level 4 or higher bullet has a change of fracture on pen
-
-* This will stop the bullet but will lose 
+* The higher bullet pen compared to armor the lower the slowdown
+* For example 8 pen bullet going there lvl 5 armor may lose 2.5 worth of pen speed (and associated with it damage)
 
 ### Examples
 
-* Experimental AP 7.62x51 has 12.5 pen @ velocity 800 m/s
-TODO
+Example non-final values
+
+* Experimental AP 7.62x51 has 12.5 pen @ velocity 800 m/s has 900 m/s speed (effectively around 14 pen)
+  * When hitting lvl 2 armor does lose little speed
+* Pen 8 bullet hits lvl 7 armor
+  * Penetrates, looses 6 pen

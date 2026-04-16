@@ -3,6 +3,7 @@
 ## Map types
 
 There are 2 types of map:
+
 * Predefined maps with fixed layout, damage is repaired when re entering the map
 * Dynamic maps - randomized maps
 

@@ -8,8 +8,8 @@ In raid player can have friendly soldiers
 
 * Player can hire AI from his organization 
 * Player can align with any of the main factions in the end game
-    * Choosing one faction will make you play their endgame missions
-    * Will unlock ability to unlock tier 5
+  * Choosing one faction will make you play their endgame missions
+  * Will unlock ability to unlock tier 5
 
 ## Ally faction soldiers
 

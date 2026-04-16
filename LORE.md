@@ -67,4 +67,3 @@ Outlaws that are creating they own "state" taking advantage of the current chaos
 ## Player faction
 
 * Player faction is initially aligned with [democrats](#democrats) and have [tier](./TRADING.md#faction-tiers) 2 with them
-

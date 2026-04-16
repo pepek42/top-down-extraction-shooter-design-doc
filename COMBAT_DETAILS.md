@@ -8,9 +8,17 @@
 
 ### Body shoot
 
+* Normal hit
+* For a lot of bullet types like hollow point, FMJ will dump 100% of damage in targe
+* For AP will dump part of the bullet damage
+
 ### Grazing hit
 
+* Half of damage, possibility for limb fracture
+
 ### Headshot
+
+* Dead with most bullets
 
 ## Combat stances
 

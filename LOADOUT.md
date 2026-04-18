@@ -2,7 +2,9 @@
 
 ## General loadout
 
-* Depending on rig/belt character will have certain amount of magazines/grenades/meds slots
+* Depending on rig/belt character will have certain slots for equipment
+* Character have slots as sum of their equipment (rig, pockets, backpack)
+  * NICE TO HAVE - backpack has separate slots and requires some time to interact with - for now to complicated
 * Different magazine types - rig will have for example 5 normal magazine slots
   * Small - 10 round AR mags, 17 round 9x19 pistol mags
   * Normal - 2 small mag slots if using those, example 30 round mags

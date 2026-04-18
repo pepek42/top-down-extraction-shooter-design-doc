@@ -1,5 +1,7 @@
 # AI behaviour
 
+Goal of AI to recreate human behavior with drive to survive while fulling mission objectives.
+
 ## AI tiers
 
 ### Low tier troops

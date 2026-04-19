@@ -59,10 +59,10 @@ Outlaws that are creating they own "state" taking advantage of the current chaos
 
 * Side faction (non-main)
 * Does have security details contracting mercenaries/security firms
-  * They can have from low tier to elit troops depending on what they protect/attack
+    * They can have from low tier to elit troops depending on what they protect/attack
 * Can use other/exotic weapon systems
 * Usually they are going to be on good terms with factions other than [bandits](#bandits) and [communists](#communists)
-  * As their main goal is profit they can work with other factions but can also be hostile
+    * As their main goal is profit they can work with other factions but can also be hostile
 
 ## Player faction
 

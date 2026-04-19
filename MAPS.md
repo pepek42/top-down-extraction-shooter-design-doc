@@ -19,8 +19,8 @@ Dynamically created maps
 
 * Game offers limited map object
 * Characters can destroy walls, glass, trees and so on
-  * Most objects take a lot of hits from conventional weapons while strong explosives are rare
-  * Glass can be broken much easier with weapons and simple grenades that are much more plentiful
+    * Most objects take a lot of hits from conventional weapons while strong explosives are rare
+    * Glass can be broken much easier with weapons and simple grenades that are much more plentiful
 
 ## Map events
 

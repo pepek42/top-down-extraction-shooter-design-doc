@@ -1,6 +1,7 @@
 # Game design doc
 
 Game is top down light extraction tactical shooter. In the future there is a plan to make it blend with tactical strategy game. Main goal of a player is to survive a map:
+
 * Extract
 * Clear the map
 
@@ -19,9 +20,6 @@ More detailed description in [combat](./COMBAT_DETAILS.md)
 ### Armor system
 
 Game offers armored vests, rigs and helmets with face shields. More detailed description in [armor](./ARMOR.md)
-
-
-
 
 ## Maps
 
@@ -54,9 +52,9 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 * On the left screen there is current player loadout
 * Each map has
 * On the right screen there is map selection, player can see
-  * Map name
-  * Standard loot quality/enemy strength
-  * Current loot/enemy multiplayer
+    * Map name
+    * Standard loot quality/enemy strength
+    * Current loot/enemy multiplayer
 
 ## Raid
 

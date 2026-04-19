@@ -41,20 +41,20 @@ Goal of AI is to create realistic, dynamic world. Ideally AI would be smart and 
 | Would fear for its life trying to retreat | [Low tier troops](#low-tier-troops)                                     |
 | Would relay info to other allies          | [Mid-tier troops](#mid-tier-troops)                                     |
 | Could listen for footsteps/gun shots      | [Mid-tier troops](#mid-tier-troops)                                     |
-| Shot tracking skills                      | [Low-tier troops](#low-tier-troops) very week, higher will do it better | 
+| Shot tracking skills                      | [Low-tier troops](#low-tier-troops) very week, higher will do it better |
 
 Examples
 
 * Low tier troops being shoot at from long range with suppressed weapon
     * Go into panic mode, look for cover, refuse to peek out/or look frantically exposing, having very time spotting anything
 * Elit troops being shoot at from long range with suppressed weapon
-  * Quickly identifying approximate direction of fire, even if not very audible
-  * Returning blind fire trying to get into cover
-  * Returning more fire in general direction while trying to identify targets
+    * Quickly identifying approximate direction of fire, even if not very audible
+    * Returning blind fire trying to get into cover
+    * Returning more fire in general direction while trying to identify targets
 * Elit troops assaulting building
-  * Making alternative entrance with rocket luncher/C4
-  * Flooding room with explosives/flashes
-  * Going in guns blazing
+    * Making alternative entrance with rocket luncher/C4
+    * Flooding room with explosives/flashes
+    * Going in guns blazing
 * Mid-tier troops assaulting building
     * Maybe throwing some granadas/flashes
     * Going in trying to identify/shoot targets one by one
@@ -62,6 +62,7 @@ Examples
 ## AI morale
 
 AI is going to be afraid of their life.
+
 * Enemy AI depending on level may get bogged down
 * Player squads will have higher base morale
 * Squad also has morale, if to many squad members are going to be pinned down they may just fire up smoke grenades and try to leave
@@ -69,12 +70,14 @@ AI is going to be afraid of their life.
 ## Ally/Enemy AI
 
 Both hostile and rival AI will be divided into squads that will have their overall objectives like:
+
 * Patrol
 * Defend (including defend to last man)
 * Assault
 * Aggressive recon
 
 When taking combat losses, taking heavy fire them may decide to retreat and either:
+
 * Extract
 * Attack again
 * Hold different position
@@ -85,6 +88,6 @@ When taking combat losses, taking heavy fire them may decide to retreat and eith
     * Significantly lower detection of player squad soldiers for enemy AI?
     * Add active pause so that player can better manage squad members and not be at mercy of AI?
 * Player is able to give high level orders to their squad and other player organization squads.
-  * For example player may do pincer attack on enemy positions from 2 sides
+    * For example player may do pincer attack on enemy positions from 2 sides
 * When trying to fulfil player order squad will behave similarly as ally/enemy AU
 * Player may divide their squad into sub squad for example to better cover movement of one sub squad with other squad

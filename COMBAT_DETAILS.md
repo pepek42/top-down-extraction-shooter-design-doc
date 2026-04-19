@@ -2,7 +2,7 @@
 
 * In order for bullet to hit player need to shoot so that bullet will pass target
 * If mouse is too far away from target (to far behind/in front), hit will not count (bullet drop)
-  * Different [combat stances](#combat-stances) determine how close to target you need to aim
+    * Different [combat stances](#combat-stances) determine how close to target you need to aim
 
 ## Hit types
 
@@ -25,16 +25,16 @@
 Switching between combat stances takes a little bit of time
 
 * Standing
-  * Normal shooting ability
-  * Easier to hit
+    * Normal shooting ability
+    * Easier to hit
 * Crouched
-  * Slightly more stable shooting position
-  * Harder to hit
-  * Much lower movement speed
+    * Slightly more stable shooting position
+    * Harder to hit
+    * Much lower movement speed
 * Prone
-  * Stable shooting position
-  * Much harder to hit
-  * Terrible movement speed
+    * Stable shooting position
+    * Much harder to hit
+    * Terrible movement speed
 
 ## Weapon types
 
@@ -71,8 +71,8 @@ Switching between combat stances takes a little bit of time
 
 * Penetration system works for environment in addition to [armor](ARMOR.md#penetration-mechanics)
 * Different environment obstacles will have different resistance. For example:
-  * Stone wall is penetrable by medium to high caliber AP
-  * Wooden wall will stop 9x19 rounds and will significantly reduce speed of AP round
+    * Stone wall is penetrable by medium to high caliber AP
+    * Wooden wall will stop 9x19 rounds and will significantly reduce speed of AP round
 
 ## Armor penetration
 

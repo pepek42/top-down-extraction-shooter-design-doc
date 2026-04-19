@@ -5,8 +5,8 @@
 ## Overview
 
 * Game uses armor system that is split into 2 slots
-  * Head
-  * Body
+    * Head
+    * Body
 * Game distinguishes which direction hit came from
 * For the direction hit came from armor value is checked against projectile remaining penetration (bullet loses speed going threw air, environment, armor)
 
@@ -15,12 +15,12 @@
 ### Head protection
 
 * Head protection (usually helmet) consists of 2 potential protections
-  * Base protection
-    * Left
-    * Right
-    * Back
-    * Top - if helmet headshot was [grazing shoot](COMBAT_DETAILS.md#grazing-hit)
-  * Face protection
+    * Base protection
+        * Left
+        * Right
+        * Back
+        * Top - if helmet headshot was [grazing shoot](COMBAT_DETAILS.md#grazing-hit)
+    * Face protection
 
 ### Body protection
 
@@ -40,11 +40,11 @@ When hit is scored against armored part of character there is check of remaining
 * If armor is at 100%, 1 pen level below current effective armor gives 0% chance to pen
 * Everything in between is linear
 * Armor damage lowers the 0% pen threshold
-  * % of armor damaged lowers 0% threshold down by % for base armor level
-  * At 0% damage the 0% threshold is `effective_armor_lvl - 1`
-  * At 100% damage the 0% threshold is `-1`
-  * Example: level 8 armor normally has 0% chance to pen for pen 7. At 50% damage it loses 50% of 8 levels for the 0% threshold, so the threshold moves from 7 to 3.
-    * So for level 8 armor with 50% damage we have 100% chance to pen for pen 8, 0% for pen 3, and linear probability in between
+    * % of armor damaged lowers 0% threshold down by % for base armor level
+    * At 0% damage the 0% threshold is `effective_armor_lvl - 1`
+    * At 100% damage the 0% threshold is `-1`
+    * Example: level 8 armor normally has 0% chance to pen for pen 7. At 50% damage it loses 50% of 8 levels for the 0% threshold, so the threshold moves from 7 to 3.
+        * So for level 8 armor with 50% damage we have 100% chance to pen for pen 8, 0% for pen 3, and linear probability in between
 
 ### Variables
 

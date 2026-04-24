@@ -69,14 +69,14 @@ Switching between combat stances takes a little bit of time
 
 ## Environment penetration
 
-* Penetration system works for environment in addition to [armor](ARMOR.md#penetration-mechanics)
+* Penetration system works for environment in addition to [armor](PROTECTIVE_GEAR.md#penetration-mechanics)
 * Different environment obstacles will have different resistance. For example:
     * Stone wall is penetrable by medium to high caliber AP
     * Wooden wall will stop 9x19 rounds and will significantly reduce speed of AP round
 
 ## Armor penetration
 
-Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](ARMOR.md#penetration-mechanics)
+Characters can wear head/body armor that will potentially stop bullets. See more in [armor doc](PROTECTIVE_GEAR.md#penetration-mechanics)
 
 ## Character penetration
 

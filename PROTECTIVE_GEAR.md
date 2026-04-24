@@ -1,10 +1,10 @@
-# Armor system
+# Protective gear system
 
 * **TBD** for now, system assumes linear pen vs speed. This is not super realistic. For now, lets leave it.
 
 ## Overview
 
-* Game uses armor system that is split into 2 slots
+* Game uses protective gear system that is split into 2 slots
     * Head
     * Body
 * Game distinguishes which direction hit came from

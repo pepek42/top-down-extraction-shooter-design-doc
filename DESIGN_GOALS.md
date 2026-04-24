@@ -7,12 +7,7 @@ Game tries to be fun extraction looter shooter with following goals:
 * Improving loadout management
 * Providing allies allowing for bolder engagements design
 
-## Inspiration
-
-* Realistic top down combat like [Intravenous series](https://store.steampowered.com/app/2608270/Intravenous_2) but with less stealth
-* Tactical/squad gameplay modeled after [Door Kickers](https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/) but with less micro
-* Simplified looting, for example [HOLE](https://store.steampowered.com/app/2971610/HOLE) which is over simplified, but it is good example of combat focused game with extraction/looting elements
-* Similar experience to Arma 3 Warlords, or Thunder Tier One in terms of commanding troops vs shotter mechanics
+See [inspirations](./INSPIRATIONS.md) for more details
 
 ## Combat feel
 

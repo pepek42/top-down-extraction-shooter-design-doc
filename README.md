@@ -20,27 +20,13 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 
 ## Maps
 
-* Maps can be predefined or dynamic (randomly generated with pattern). More details in TODO
+* Maps can be predefined or dynamic (randomly generated with pattern). More details in **TODO**
 
 ## Items and slots
 
 * Items need slot to be extracted and stored in hideout stash
 * None of the items take more than one slot
 * Smaller items can stack in single slot
-
-## Hideout
-
-### Upgrades
-
-* Player can upgrade most stations
-
-### Stash
-
-*
-
-### Player loadout
-
-### Squad management
 
 ## Raid selection screen
 

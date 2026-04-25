@@ -42,10 +42,10 @@ Switching between combat stances takes a little bit of time
 * SMG - similar to pistols but better recoil control and faster rate of fire
 * PDW - similar to SMG but better penetration at cost of stopping power
 * AR - versatile, can shoot range of ammo types, lacks effectiveness at very long ranges both in accuracy and pen
-* LMG - TODO
-* DMR - TODO
-* Shotgun - TODO
-* TODO
+* LMG - **TODO**
+* DMR - **TODO**
+* Shotgun - **TODO**
+* **TODO**
 
 ### Example calibers:
 

@@ -9,7 +9,7 @@ There are 2 types of map:
 
 ### Predefined maps
 
-TODO
+**TODO**
 
 ### Dynamic maps
 

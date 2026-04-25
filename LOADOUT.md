@@ -15,4 +15,4 @@
 
 ## AI loadout
 
-TBD TODO how AI is going to manage mags/ammo/meds and so on. Probably simple, without repacking mags and so on
+TBD **TODO** how AI is going to manage mags/ammo/meds and so on. Probably simple, without repacking mags and so on

@@ -26,23 +26,23 @@ Player is able to unlock equipment for theirs organization permanently
 
 ### Bandits
 
-TODO
+**TODO**
 
 ### Fascists
 
-TODO
+**TODO**
 
 ### Communists
 
-TODO
+**TODO**
 
 ### Anarchists
 
-TODO
+**TODO**
 
 ### Democrats
 
-TODO
+**TODO**
 
 ### Corporations
 

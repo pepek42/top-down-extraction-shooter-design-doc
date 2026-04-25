@@ -17,7 +17,7 @@ Fascist Block (FB)
 * Main faction
 * Use eastern block weapon systems
 
-TODO
+**TODO**
 
 ### Communists
 
@@ -26,7 +26,7 @@ Asian Communist Alliance (ACA)
 * Main faction
 * Use Asian weapon systems
 
-TODO
+**TODO**
 
 ### Anarchists
 
@@ -35,7 +35,7 @@ United States of Anarchists (USA)
 * Main faction
 * Use US weapon systems
 
-TODO
+**TODO**
 
 ### Democrats
 
@@ -44,7 +44,7 @@ Democratic Alliance (DA)
 * Main faction
 * Use Polish/non USA NATO weapon systems
 
-TODO
+**TODO**
 
 ### Bandits
 

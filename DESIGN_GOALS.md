@@ -9,9 +9,13 @@ Game tries to be fun extraction looter shooter with following goals:
 
 See [inspirations](./INSPIRATIONS.md) for more details
 
+## 2D vs 3D
+
+As I have no artistic skills 2D is much more possible to do. Although Ravenfield like extraction shooter would be cool it is out of my reach in terms of art and game dev skills.
+
 ## Combat feel
 
-Combat should be realistic with simplified medical system.
+Combat should be realistic with simplified medical system (but still more advanced compared to many games).
 
 ### Goal
 
@@ -21,8 +25,8 @@ Combat should be realistic with simplified medical system.
 
 ### Potential issues
 
-* Realistic AI
-* Performance
+* Realistic AI - hard to do
+* Performance - lots of calculation
 
 ## Looting
 

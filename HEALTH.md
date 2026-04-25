@@ -19,7 +19,7 @@
 
 ### Examples
 
-**NON FINAL VALUES** - just for reference
+**NON-FINAL VALUES** - just for reference
 
 * 300 damage AP 7.62x51 (could penetrate multiple targets) will do
     * 100 damage to unarmored target
@@ -30,16 +30,16 @@
 
 ## Health items
 
-TODO
+**TODO**
 
 ### Med kits
 
-TODO
+**TODO**
 
 ### Special items
 
-TODO
+**TODO**
 
 ### Stims
 
-TODO
+**TODO**

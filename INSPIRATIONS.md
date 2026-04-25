@@ -1,5 +1,31 @@
 # Inspirations
 
+## Genres overview
+
+### Extraction shooters
+
+Very good at creating tension, real stakes. Forces player to think about their choices.
+
+Main issue is with scaling - it is hard to balance such game on every state of player progression. This can lead to endgame where player is hunting items/bosses that they cannot find ultimately wasting time.
+
+Also, early game location should give player more breathing room while endgame location could be more condensed and action packed.
+
+### Tactical games
+
+Commanding small squad can be very rewarding. Those game can be nice balanced to provide tactical challenges without being overwhelming. Including tactical strategy elements in the game can increase overall games depth.
+
+### Rougelike
+
+Recently very popular as they are easier to make, provide a lot of replayability.
+
+My main issue with this genre is that at the beginning those games feels stacked against you - you don't have unlocks plus you don't know the game.
+
+This is where more traditional rouge games come in like Shattered Pixel Dungeon, where you have everything from the get-go, but they are very hard.
+
+Ultimately IMO extraction shooters solve rougelike issues with being forced to lose at the beginning.
+
+## Mini reviews of games
+
 Games that have elements that IMO would be fitting this single player (or PVE) game design and what I think they could improve
 
 - [Intravenous series](https://store.steampowered.com/app/2608270/Intravenous_2) realistic top down combat
@@ -29,7 +55,7 @@ Games that have elements that IMO would be fitting this single player (or PVE) g
     - At times feels too minimalistic, like weapons selection
     - Random extract location can be frustrating, especially at the beginning
     - Progression scaling is a bit off - only very well-balanced in the mid-game
-- Incursion Red River **TODO**
+- Incursion Red River (1.3) **TODO**
 - Escape From Tarkov
   - Pros
     - Very well level design
@@ -68,7 +94,9 @@ Games that have elements that IMO would be fitting this single player (or PVE) g
   - Issues
     - [Looting issue](#looting-issue)
     - No [hiring NPCs](#hiring-npcs)
-- Escape From Duckov **TOOD**
+    - Monsters are a miss IMO. Bullet spanges, enemies swarm are not that realistic and take away from overall game feel
+    - Some maps can be boring and to big
+- Escape From Duckov - kind of similar to ZERO Sievert but with 3D top-down view. Nice, but a bit to grindy for me. Too little to be EFT, too much to be ZERO Sievert
 
 ## Looting issue
 

@@ -2,7 +2,7 @@
 
 * In order for bullet to hit player need to shoot so that bullet will pass target
 * If mouse is too far away from target (to far behind/in front), hit will not count (bullet drop)
-    * Different [combat stances](#combat-stances) determine how close to target you need to aim
+  * Different [combat stances](#combat-stances) determine how close to target you need to aim
 
 ## Hit types
 

@@ -9,11 +9,26 @@ There are 2 types of map:
 
 ### Predefined maps
 
-**TODO**
+Maps with fixed layout. Can be occupied by single factions or have ongoing battle. Example maps:
+
+* Hunting hut - small location, usually occupied by bandits, but can be taken over by other factions low level troops
+  * The only point of interest is hut
+* Suburbs - medium map, can be occupied by any faction
+  * Few points of interest - post office, houses, shop
+* Train station - medium map, can be by main factions
+  * Points of interest - station, loading bay, administrative buildings
+* City center - big map, occupied by any faction
+  * Points of interest - small mall, city hall, parking lot
+* Military based - medium map, can be by main factions
+  * Points of interest - armory, magazines, administrative buildings
 
 ### Dynamic maps
 
-Dynamically created maps
+Procedurally generated maps. Can be occupied by single factions or have ongoing battle.
+
+* Forest
+* Suburbs
+* City
 
 ## Map destruction
 

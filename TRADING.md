@@ -21,6 +21,7 @@ Player is able to unlock equipment for theirs organization permanently
 
 * Require completing faction quest
 * Will unlock items from previous [faction trier](#faction-tiers)
+* Require [loading bay](./PLAYER_BASE.md#loading-bay)
 
 ## Faction offer
 

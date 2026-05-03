@@ -42,10 +42,10 @@ Switching between combat stances takes a little bit of time
 * SMG - similar to pistols but better recoil control and faster rate of fire
 * PDW - similar to SMG but better penetration at cost of stopping power
 * AR - versatile, can shoot range of ammo types, lacks effectiveness at very long ranges both in accuracy and pen
-* LMG - **TODO**
-* DMR - **TODO**
-* Shotgun - **TODO**
-* **TODO**
+* LMG - slower than AR in CQB, usually better firepower/range/mag size than AR
+* DMR - usually semi auto, prioritizing range
+* Shotgun - close quarters weapons, ineffective against modern armor
+* Anti-material rifles - high power rifles (usually bolt) dedicated to go threw heavy cover/destroy light vehicles
 
 ### Example calibers:
 
@@ -84,7 +84,7 @@ When character is shot (armor is defeated) projectile can slow down or stop comp
 
 * If unprotected enemy is shot with 9x19 hollow point bullet in the center of mass bullet is not expected to penetrate
 * If unprotected enemy is grazed with 9x19 hollow point bullet it will still significantly slow down bullet
-* If unprotected enemy is shoot with 7.52x51 experimental bullet we expect little slow down
+* If unprotected enemy is shot with 7.52x51 experimental bullet we expect little slow down
 * If heavily armored enemy shot with 5.56x45 AP round - round may fragment dealing extra damage and not penetrating but it can also penetrate
 
 Grazing shot will go threw smaller amount of character compared to full body shot.

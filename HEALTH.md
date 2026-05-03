@@ -30,16 +30,38 @@
 
 ## Health items
 
-**TODO**
+All items will do all of mentioned things in one use if applicable
 
-### Med kits
-
-**TODO**
-
-### Special items
-
-**TODO**
+* Bandage
+  * Stops bleeds
+  * Stacks up to 10
+* Splint
+  * Fixes fractures
+  * Stacks up to 10
+* Simple med kit
+  * Restores 25 HP
+  * Stacks up to 5
+* Med kit
+  * Restores 50 HP
+  * Stops bleeds
+  * Stacks up to 5
+* Advanced med kit
+  * Restores 75 HP
+  * Stops bleeds
+  * Fixes fractures
+  * Stacks up to 5
 
 ### Stims
 
-**TODO**
+All stims stack up to 5
+
+* Adrenaline
+  * Slow motion effect (50%) able to use for **TBD** 10 seconds (5s IRL) withing 5 min
+* Health steam
+  * +50 HP
+* Bleed stim
+  * Stops bleed and prevents bleed for 5 min
+* Morphine
+  * Pain resistance for 5 min
+* Regen stim
+  * Regenerates 1 HP/second for 2 min

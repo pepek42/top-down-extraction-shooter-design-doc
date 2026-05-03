@@ -18,9 +18,7 @@ More detailed description in [combat](./COMBAT_DETAILS.md)
 
 Game offers armored vests, rigs and helmets with face shields. More detailed description in [armor](PROTECTIVE_GEAR.md)
 
-## Maps
 
-* Maps can be predefined or dynamic (randomly generated with pattern). More details in **TODO**
 
 ## Items and slots
 

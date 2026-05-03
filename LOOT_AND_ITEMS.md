@@ -5,6 +5,11 @@
     * [Point of interest loot](#point-of-interest-loot)
     * [Extraction loot](#extraction-loot)
 
+## Items levels
+
+* All items have level 1-5
+* If item is sold by traders it will be on the same level
+
 ## In raid loot
 
 ### Character loot
@@ -48,11 +53,11 @@ Rare loot is loot that is offered to player when clearing point of interest. Can
 
 ### Normal loot
 
-Normal loot usually will have different tiers - normal, uncommon, rare
+Normal loot usually will have different tiers - 1-5
 
 #### Generic items
 
-All of those has normal/uncommon/rare variants
+All of those has 1-5 variants
 
 * Loose meds - used to craft meds
 * Weapon parts - use to craft/repair weapons

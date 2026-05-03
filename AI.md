@@ -91,3 +91,23 @@ When taking combat losses, taking heavy fire them may decide to retreat and eith
     * For example player may do pincer attack on enemy positions from 2 sides
 * When trying to fulfil player order squad will behave similarly as ally/enemy AU
 * Player may divide their squad into sub squad for example to better cover movement of one sub squad with other squad
+
+## Roles
+
+AI can have assigned one of squad roles
+
+* Rifleman - basic all around infantry, will usually be using AR
+* MG - usually using LMG, suppressing enemies, providing fire support
+* Designated Marksman - providing fire support at distance
+* CQB - room clearing
+* Grenadier - using grenade luncher
+
+## Squad types
+
+Possible AI/player squad organisation:
+
+* Fire team - 2-3 members
+* Squad - up to 10 members, can consist 3 fire teams and leader
+* MG team - using MMG
+* Mortars team
+* Sniper team - sniper + spotter

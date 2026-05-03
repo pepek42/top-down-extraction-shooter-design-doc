@@ -13,7 +13,7 @@ Player base is for whole organization, player is
 
 ### Stash
 
-**TODO**
+Stash allows to hold items, bigger level, more items.
 
 ### Loading bay
 
@@ -43,12 +43,22 @@ Player base is for whole organization, player is
 
 ## Presets
 
-**TODO**
+* Player can define weapon/loadout/squad presets.
+* Loadout preset will have defined [role](./AI.md#roles)
+
+### Priority
+
+Weapons attachments, loadout equipment, can have priority list defined.
+
+For example
+
+* M4 CQB preset can have holographic sight as top priority, then some red dot. This means that if player has in stash holo sight it will be used, if not red dot.
+* Automatic Machine Gunner can have M249, if absent M16 with extended mag
 
 ## Player loadout
 
-**TODO**
+Player can build loadout from stash or load from preset.
 
 ## Squad management
 
-**TODO**
+Player is able to create squad using presets. 

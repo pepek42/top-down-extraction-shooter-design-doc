@@ -25,6 +25,8 @@ Player is able to unlock equipment for theirs organization permanently
 
 ## Faction offer
 
+Each faction has offers associated with their faction.
+
 ### Bandits
 
 **TODO**

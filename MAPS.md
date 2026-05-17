@@ -52,3 +52,10 @@ Small patrol trying to do aggressive recon and retreat
 ## In raid loot
 
 See [in raid loot section](./LOOT_AND_ITEMS.md#in-raid-loot) to see how loot is handled during raid in map.
+
+## Minimap
+
+Player is able to open minimap with:
+* Player squads
+* Point of interest with their current status (if cleared or under which faction occupation)
+* Player is able to command squads from this view

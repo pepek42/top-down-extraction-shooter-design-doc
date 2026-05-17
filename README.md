@@ -31,7 +31,7 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 * There are 2 types of map to choose from - handcrafted and dynamically created
 * Map are described in [maps](./MAPS.md)
 * On the left screen there is current player loadout
-* Each map has
+* Each map has configurable difficulty modifiers
 * On the right screen there is map selection, player can see
     * Map name
     * Standard loot quality/enemy strength
@@ -39,8 +39,8 @@ Game offers armored vests, rigs and helmets with face shields. More detailed des
 
 ## Raid
 
-* Instead of looting player will be awarder potential loot they can extract with at extraction zone
-* Loot quality is determined by number
+* Instead of looting player will be awarded potential loot they can extract with at extraction zone
+* Loot quality is determined by cleared point of interest count and their loot type and quality
 
 ### Enemies
 

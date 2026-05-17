@@ -2,7 +2,7 @@
 
 Game tries to be fun extraction looter shooter with following goals:
 
-* Minimizing looting part to bear minimum
+* Minimizing looting part down to bear minimum
 * Simplifying extraction
 * Improving loadout management
 * Providing allies allowing for bolder engagements design

@@ -36,7 +36,7 @@ Goal of AI is to create realistic, dynamic world. Ideally AI would be smart and 
 |-------------------------------------------|-------------------------------------------------------------------------|
 | Use suppressive fire                      | [Mid-tier troops](#mid-tier-troops) (more in panic at this tier)        |
 | Use cover                                 | [Mid-tier troops](#mid-tier-troops) (more in panic at this tier)        |
-| Use room clearing technics                | [High tier troops](#high-tier-troops)                                   |
+| Use room clearing techniques                | [High tier troops](#high-tier-troops)                                   |
 | Use fire and maneuver                     | [High tier troops](#high-tier-troops)                                   |
 | Would fear for its life trying to retreat | [Low tier troops](#low-tier-troops)                                     |
 | Would relay info to other allies          | [Mid-tier troops](#mid-tier-troops)                                     |
@@ -52,7 +52,7 @@ Examples
     * Returning blind fire trying to get into cover
     * Returning more fire in general direction while trying to identify targets
 * Elit troops assaulting building
-    * Making alternative entrance with rocket luncher/C4
+    * Making alternative entrance with rocket launcher/C4
     * Flooding room with explosives/flashes
     * Going in guns blazing
 * Mid-tier troops assaulting building
@@ -100,7 +100,7 @@ AI can have assigned one of squad roles
 * MG - usually using LMG, suppressing enemies, providing fire support
 * Designated Marksman - providing fire support at distance
 * CQB - room clearing
-* Grenadier - using grenade luncher
+* Grenadier - using grenade launcher
 
 ## Squad types
 

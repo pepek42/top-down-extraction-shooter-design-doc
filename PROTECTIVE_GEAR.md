@@ -89,12 +89,12 @@ Worked example:
 ## Armor damage
 
 * Penetrating by any round does 25% of armor damage
-* Non pen shoot destroys `(effective_armor_lvl - current_bullet_pen)/current_bullet_pen/4`
+* Non-penetrating shot does `(effective_armor_lvl - current_bullet_pen)/current_bullet_pen/4` armor damage
 
 ### Examples
 
 * Pen 3 bullet hits lvl 6 armor, damages (6-3)/6/2 *100% = 12.5%
-* Pen 1 `bullet
+* Pen 1 bullet causes minimal damage
 
 ### Speed lose on pen
 

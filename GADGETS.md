@@ -14,15 +14,15 @@ Also, realistic but not as fun. Maybe used in small numbers with clear indicatio
 
 Fairly widely available
 
-* Offensive
-* Defensive
-* Flash
-* Smokes - **TBD**
+* Offensive - smaller explosive radius
+* Defensive - large fragmentation radius
+* Flash - disorientation/blindness effect
+* Smokes - area denial/cover
 
 ### Heavy explosives
 
 Less available, in smaller numbers, should be used wisely by player. Possible options:
 
-* Grenades launchers
+* Grenade launchers
 * RPG/LAW
 * C4

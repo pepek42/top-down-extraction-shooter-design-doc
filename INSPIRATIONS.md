@@ -50,7 +50,7 @@ Games that have elements that IMO would be fitting this single player (or PVE) g
     * Simple yet effective gameplay loop
     * Interesting enemies
     * Does not overstay its welcome
-    * "Looting" boiled to necessary minimum
+    * "Looting" reduced to necessary minimum
   * Cons
     * At times feels too minimalistic, like weapons selection
     * Random extract location can be frustrating, especially at the beginning
@@ -80,14 +80,14 @@ Games that have elements that IMO would be fitting this single player (or PVE) g
   * Pros
     * Kind of close to what I envision for this game
     * Realistic yet simplified equipment management, shooter mechanics
-    * Farly ok squad management
+    * Fairly ok squad management
     * UAV minimap/enemies live update is unconventional, but fits the theme
   * Issues
     * AI - especially teammates going in front of my muzzle. I know I can command them, but still
     * 3D detailed env with top-down view confuses me a lot
     * Need to rotate cam
     * In general I like simplified art style like ZERO Sievert or Duckov
-* ZERO Sievert **TOOD**
+* ZERO Sievert **TODO**
   * Pros
     * Fighting human like enemies is fun
     * Clear graphics, not to busy
@@ -95,8 +95,8 @@ Games that have elements that IMO would be fitting this single player (or PVE) g
     * [Looting issue](#looting-issue)
     * No [hiring NPCs](#hiring-npcs)
     * Monsters are a miss IMO. Bullet spanges, enemies swarm are not that realistic and take away from overall game feel
-    * Some maps can be boring and to big
-* Escape From Duckov - kind of similar to ZERO Sievert but with 3D top-down view. Nice, but a bit to grindy for me. Too little to be EFT, too much to be ZERO Sievert
+    * Some maps can be boring and too big
+* Escape From Duckov - kind of similar to ZERO Sievert but with 3D top-down view. Nice, but a bit too grindy for me. Too little to be EFT, too much to be ZERO Sievert
 * Road to Vostok - ofc too much into survival/stash managment/looting for me. But for those who like that even first early access kind of nailed it
 
 ## Looting issue

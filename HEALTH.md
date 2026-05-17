@@ -56,8 +56,8 @@ All items will do all of mentioned things in one use if applicable
 All stims stack up to 5
 
 * Adrenaline
-  * Slow motion effect (50%) able to use for **TBD** 10 seconds (5s IRL) withing 5 min
-* Health steam
+  * Slow motion effect (50%) able to use for **TBD** 10 seconds (5s IRL) within 5 min
+* Health stim
   * +50 HP
 * Bleed stim
   * Stops bleed and prevents bleed for 5 min

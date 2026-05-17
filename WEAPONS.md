@@ -25,10 +25,25 @@
 
 * Civilian - lower pen, lower accuracy
 * Match - better accuracy
-* Hollow point (HP) - bed pen, high damage
+* Hollow point (HP) - low pen, high damage
 * Military - reasonable pen for given caliber
 * Tracer - visible on screen and by enemies, can be combined with other types, usually slightly lower pen
 * AP - high pen/muzzle velocity for given caliber
 * Experimental - really high pen/muzzle velocity for given caliber
 
-## Weapon
+## Weapon attachments
+
+* Optics
+  * Scopes
+  * Red dots
+  * Holo sights
+* Barrel
+  * Extender/short barrel
+* Muzzle device
+  * Breaks - reduce recoil
+  * Suppressors - reduce recoil, reduce shooting noice (harder to detect shooter ta range), reduce flash (harder to detect shooter ta range)
+  * Flash hiders - reduce ability to detect shooter at longer range, improves accuracy
+* Underbarrel
+  * Grips
+  * Grenade launchers
+* Magazine - extended mags, different capacities
